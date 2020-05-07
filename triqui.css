@@ -1,0 +1,23 @@
+.cuadro{border: 1px solid #e0e0e0;width: 70px;height:70px;margin-left: 15px;margin-right: 15px;} 
+.cuadro[value="X"]
+{
+    color: #ffffff;background-color: #31b436;
+}
+.ganador
+{
+    border: 1px solid #e0e0e0;width: 70px;height:70px;margin-left: 15px;margin-right: 15px;
+} 
+.ganador[value="X"]
+{
+    color: #ffffff;background-color: #31b436;
+} 
+
+.cuadro[value="O"]
+{ 
+    color: #ffffff;background-color: #e21d1a;
+}
+.ganador[value="O"]
+{ 
+    color: #ffffff;background-color: #e21d1a;
+}
+    
